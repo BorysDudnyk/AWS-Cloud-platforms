@@ -1,0 +1,137 @@
+{
+    "exchange_rate1": [
+        {"PutRequest":{
+            "Item": {
+                "r030": {
+                    "N": "959"
+                },
+                "txt": {
+                    "S": "Gold"
+                },
+                "rate": {
+                    "N": "86353.89" 
+                },
+                "c":{
+                    "S": "XAU"
+                },
+                "exchange date": {
+                    "S": "01.04.2024"
+                }
+            }
+        }},
+        {"PutRequest":{
+            "Item": {
+                "r030": {
+                    "N": "985"
+                },
+                "txt": {
+                    "S": "Zloty"
+                },
+                "rate": {
+                    "N": "9.7772" 
+                },
+                "c":{
+                    "S": "PLN"
+                },
+                "exchange date": {
+                    "S": "01.04.2024"
+                }
+            }
+        }},
+        {"PutRequest":{
+            "Item": {
+                "r030": {
+                    "N": "978"
+                },
+                "txt": {
+                    "S": "Euro"
+                },
+                "rate": {
+                    "N": "42.1601" 
+                },
+                "c":{
+                    "S": "EUR"
+                },
+                "exchange date": {
+                    "S": "01.04.2024"
+                }
+            }
+        }},
+        {"PutRequest":{
+            "Item": {
+                "r030": {
+                    "N": "410"
+                },
+                "txt": {
+                    "S": "Won"
+                },
+                "rate": {
+                    "N": "0.028378" 
+                },
+                "c":{
+                    "S": "KRW"
+                },
+                "exchange date": {
+                    "S": "01.04.2024"
+                }
+            }
+        }},
+        {"PutRequest":{
+            "Item": {
+                "r030": {
+                    "N": "398"
+                },
+                "txt": {
+                    "S": "Tenge"
+                },
+                "rate": {
+                    "N": "0.087019" 
+                },
+                "c":{
+                    "S": "KZT"
+                },
+                "exchange date": {
+                    "S": "01.04.2024"
+                }
+            }
+        }},
+        {"PutRequest":{
+            "Item": {
+                "r030": {
+                    "N": "392"
+                },
+                "txt": {
+                    "S": "Yen"
+                },
+                "rate": {
+                    "N": "0.25783" 
+                },
+                "c":{
+                    "S": "JPY"
+                },
+                "exchange date": {
+                    "S": "01.04.2024"
+                }
+            }
+        }},
+        {"PutRequest":{
+            "Item": {
+                "r030": {
+                    "N": "124"
+                },
+                "txt": {
+                    "S": "Canadian dollar"
+                },
+                "rate": {
+                    "N": "28.7804" 
+                },
+                "c":{
+                    "S": "CAD"
+                },
+                "exchange date": {
+                    "S": "01.04.2024"
+                }
+            }
+        }}
+    ]
+}
