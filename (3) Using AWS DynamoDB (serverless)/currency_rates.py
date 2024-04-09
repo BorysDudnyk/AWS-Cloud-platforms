@@ -1,5 +1,5 @@
 import boto3
-from decimal import Decimal  # Додано імпорт Decimal
+from decimal import Decimal  
 import logging
 
 logging.basicConfig(level=logging.INFO)
