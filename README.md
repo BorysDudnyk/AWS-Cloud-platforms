@@ -2,6 +2,8 @@
 
 # 1. Імпорт бібліотек:
 # Імпортуйте необхідні бібліотеки для роботи з AWS Sagemaker, AWS S3, обробки даних, візуалізації та машинного навчання.
+
+ ```python
 import warnings
 warnings.filterwarnings("ignore")
 import boto3
@@ -22,6 +24,7 @@ from sklearn.preprocessing import StandardScaler
 import seaborn as sns
 import time
 import matplotlib.pyplot as plt
+```
 
 # 2. Конфігурація Sagemaker:
 # Налаштуйте середовище (SDK) для роботи з AWS Sagemaker.
