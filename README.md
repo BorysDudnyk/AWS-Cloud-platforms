@@ -18,7 +18,6 @@ import io
 from pathlib import Path
 import shutil
 from sklearn.model_selection import train_test_split
-from io import StringIO
 import json
 from sklearn import metrics
 from sagemaker.amazon.amazon_estimator import get_image_uri
@@ -27,7 +26,6 @@ from sklearn.preprocessing import StandardScaler
 import seaborn as sns
 import time
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 # 2. Конфігурація Sagemaker:
 # Налаштуйте середовище (SDK) для роботи з AWS Sagemaker.
